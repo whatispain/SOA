@@ -1,1 +1,1 @@
-﻿<%@ WebService Language="C#" CodeBehind="WebService1.asmx.cs" Class="SoapFlab.WebService1" %>
+<%@ WebService Language="C#" CodeBehind="App_Code/WebService1.asmx.cs" Class="App_Code/SoapFlab.WebService1" %>
